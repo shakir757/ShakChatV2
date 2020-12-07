@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "187251650522",
+    "project_id": "shakchatv2",
+    "storage_bucket": "shakchatv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187251650522:android:732744f70f106eb8c95ae3",
+        "android_client_info": {
+          "package_name": "com.example.shakchatv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187251650522-v54vecicj4kfptecvdumqual0lslir9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shakchatv2",
+            "certificate_hash": "862c2cf718b4cece8ccdf98d3b4f39692e12dff6"
+          }
+        },
+        {
+          "client_id": "187251650522-5ducdi1p8lk79m3rv8u1jqjhm8f9ot3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9u2jDg3aozoIy1OiaSA2A7Ta79P5JY5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187251650522-5ducdi1p8lk79m3rv8u1jqjhm8f9ot3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
